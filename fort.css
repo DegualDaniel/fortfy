@@ -1325,7 +1325,7 @@ font-weight: 500;
         justify-content: space-around;  
         background: rgb(16, 20, 44) url(image/dot-landing.png);
         background-position: left; 
-        
+        border: none;
         transition: transform 0.5s ease-in;
         transform: translateX(100%);
         z-index: 1000; 
